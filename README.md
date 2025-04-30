@@ -1,4 +1,4 @@
-~~~markdown
+
 # Local Mini DeepSeek with Qwen3 & Ollama
 
 This project leverages **Qwen3:4B** and **Ollama** inference to create a 100% local ChatGPT-like app with a hybrid thinking UI built on Streamlit.
@@ -53,5 +53,5 @@ streamlit run app.py
 2. Toggle **Enable step-by-step reasoning 🧠** at the bottom.
 3. Type your question in the input box and press Enter.
 4. View answer with or without chain-of-thought.
-~~~
+
 
